@@ -24,9 +24,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://thestar0.site',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: 'CTF', url: '/category/CTF' },
-  HEO_HERO_CATEGORY_2: { title: '漏洞复现', url: '/category/漏洞复现' },
-  HEO_HERO_CATEGORY_3: { title: '安全工具', url: '/category/安全工具' },
+  HEO_HERO_CATEGORY_1: { title: '红蓝对抗', url: '/category/红蓝对抗' },
+  HEO_HERO_CATEGORY_2: { title: 'CTF', url: '/category/CTF' },
+  HEO_HERO_CATEGORY_3: { title: 'AI', url: '/category/AI' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
