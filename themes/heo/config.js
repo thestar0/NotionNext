@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_5: '安全对抗的本质是人与人的对抗',
   HEO_HERO_TITLE_LINK: 'https://thestar0.site',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: '随便瞧瞧',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '攻防对抗', url: '/category/攻防对抗' },
